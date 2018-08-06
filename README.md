@@ -6,13 +6,15 @@ This is version 0.2
 Player One is Blue !!
 Player Two is Red  !!
 
-======Control======
-###Player One
+##Control
+Player One
+
 ----------
 W is up
 S is Down 
 
-###Player Two 
+Player Two 
+
 ----------
 Arrow up 
 Arrow down 
